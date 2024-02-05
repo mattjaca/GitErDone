@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitErDone", "GitErDone\GitErDone.csproj", "{408D3D5F-DFA5-4102-8C33-3F0D273DD595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408D3D5F-DFA5-4102-8C33-3F0D273DD595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408D3D5F-DFA5-4102-8C33-3F0D273DD595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408D3D5F-DFA5-4102-8C33-3F0D273DD595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408D3D5F-DFA5-4102-8C33-3F0D273DD595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8275FB10-40C4-4C85-B1AE-E1D6416E95C0}
+	EndGlobalSection
+EndGlobal
